@@ -1,5 +1,3 @@
-# vikashkushwaha
-
 # Hi 👋, I'm Vikash Kumar
 ### 🚀 MERN Stack Developer | JavaScript Enthusiast
 
