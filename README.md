@@ -66,21 +66,20 @@ I'm a passionate full-stack developer who enjoys building modern, responsive, an
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikashtr&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashtr&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikashkushwaha7&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkushwaha7&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vikashtr&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vikashkushwaha7&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect with Me
 
-- GitHub: https://github.com/vikashtr
+- GitHub: https://github.com/vikashkushwaha7
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
 - Email: your.email@example.com
 
