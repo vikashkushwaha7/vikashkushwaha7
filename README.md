@@ -81,7 +81,7 @@ I'm a passionate full-stack developer who enjoys building modern, responsive, an
 
 - GitHub: https://github.com/vikashkushwaha7
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your.email@example.com
+- Email: vikashkushwaha@gmail.com
 
 ---
 
